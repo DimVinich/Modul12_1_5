@@ -8,7 +8,6 @@ namespace Modul12_1_5
         static void Main(string[] args)
         {
 
-			//User user = new User { Login = "Первый пользователь", IsPremium = false, Name = "Первый1" };
 			User[] users = {
 				new User { Login = "Первый пользователь Login", IsPremium = false, Name = "Первый пользователь" },
 				new User { Login = "Второй пользователь Login", IsPremium = true, Name = "Второй пользователь" },
